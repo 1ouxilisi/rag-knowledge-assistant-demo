@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "question": "纯电动车首保建议什么时候做？",
+    "expect_source": "01-保养与质保",
+    "keywords": ["5,000", "3 个月"],
+    "reject": false
+  },
+  {
+    "id": 2,
+    "question": "常规保养多久做一次？",
+    "expect_source": "01-保养与质保",
+    "keywords": ["10,000", "12 个月"],
+    "reject": false
+  },
+  {
+    "id": 3,
+    "question": "常规检查保养大概多少钱？",
+    "expect_source": "01-保养与质保",
+    "keywords": ["300", "600"],
+    "reject": false
+  },
+  {
+    "id": 4,
+    "question": "三电系统质保多久？",
+    "expect_source": "01-保养与质保",
+    "keywords": ["8 年", "15 万公里"],
+    "reject": false
+  },
+  {
+    "id": 5,
+    "question": "充电枪插上去没反应，第一步先确认什么？",
+    "expect_source": "02-充电常见问题",
+    "keywords": ["P 挡"],
+    "reject": false
+  },
+  {
+    "id": 6,
+    "question": "快充一般充到多少以后会降速？",
+    "expect_source": "02-充电常见问题",
+    "keywords": ["80%"],
+    "reject": false
+  },
+  {
+    "id": 7,
+    "question": "车辆长期停放，电量建议保持在什么范围？",
+    "expect_source": "02-充电常见问题",
+    "keywords": ["30%", "60%"],
+    "reject": false
+  },
+  {
+    "id": 8,
+    "question": "冬季实际续航比标称大概下降多少？",
+    "expect_source": "03-续航与冬季使用",
+    "keywords": ["20%", "35%"],
+    "reject": false
+  },
+  {
+    "id": 9,
+    "question": "冬季续航受哪些因素影响？",
+    "expect_source": "03-续航与冬季使用",
+    "keywords": ["气温", "空调"],
+    "reject": false
+  },
+  {
+    "id": 10,
+    "question": "购车一般有哪几种金融方案？",
+    "expect_source": "04-销售与金融方案",
+    "keywords": ["全款", "分期", "融资租赁"],
+    "reject": false
+  },
+  {
+    "id": 11,
+    "question": "贷款的月供和利率由什么确定？",
+    "expect_source": "04-销售与金融方案",
+    "keywords": ["征信"],
+    "reject": false
+  },
+  {
+    "id": 12,
+    "question": "这辆车支持完全脱手自动驾驶吗？",
+    "expect_source": "",
+    "keywords": [],
+    "reject": true
+  },
+  {
+    "id": 13,
+    "question": "接待客户时需要先确认哪些关键信息？",
+    "expect_source": "05-销售接待流程与话术",
+    "keywords": ["预算", "家充"],
+    "reject": false
+  },
+  {
+    "id": 14,
+    "question": "试驾前要确认客户的什么证件？",
+    "expect_source": "05-销售接待流程与话术",
+    "keywords": ["驾驶证"],
+    "reject": false
+  },
+  {
+    "id": 15,
+    "question": "车型的续航和配置参数应以什么为准？",
+    "expect_source": "05-销售接待流程与话术",
+    "keywords": ["手册"],
+    "reject": false
+  },
+  {
+    "id": 16,
+    "question": "最终落地价以什么文件为准？",
+    "expect_source": "04-销售与金融方案",
+    "keywords": ["报价单"],
+    "reject": false
+  },
+  {
+    "id": 17,
+    "question": "客户有续航焦虑时应结合什么来说明？",
+    "expect_source": "06-客户异议与跟进",
+    "keywords": ["通勤里程"],
+    "reject": false
+  },
+  {
+    "id": 18,
+    "question": "客户留资后首次回访应在什么时间内？",
+    "expect_source": "06-客户异议与跟进",
+    "keywords": ["当天"],
+    "reject": false
+  },
+  {
+    "id": 19,
+    "question": "能不能对车辆保值率给出具体残值承诺？",
+    "expect_source": "",
+    "keywords": [],
+    "reject": true
+  },
+  {
+    "id": 20,
+    "question": "客户嫌价格高，费用上应如何说明？",
+    "expect_source": "06-客户异议与跟进",
+    "keywords": ["分项"],
+    "reject": false
+  },
+  {
+    "id": 21,
+    "question": "对比竞品时可以贬低对手车型吗？",
+    "expect_source": "06-客户异议与跟进",
+    "keywords": ["不贬低"],
+    "reject": false
+  },
+  {
+    "id": 22,
+    "question": "这辆车是不是终身免费更换电池？",
+    "expect_source": "",
+    "keywords": [],
+    "reject": true
+  },
+  {
+    "id": 23,
+    "question": "帮我写一条发朋友圈的卖车文案。",
+    "expect_source": "",
+    "keywords": [],
+    "reject": true
+  },
+  {
+    "id": 24,
+    "question": "这款车和某竞品相比谁加速更快？",
+    "expect_source": "",
+    "keywords": [],
+    "reject": true
+  },
+  {
+    "id": 25,
+    "question": "现在下单有没有赠送大礼包？",
+    "expect_source": "",
+    "keywords": [],
+    "reject": true
+  }
+]
